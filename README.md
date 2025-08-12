@@ -1,4 +1,6 @@
-Amigo Secreto
+Este es un pequeno desafio que se llama Amigo Secretoa donde se pueden realizar sorteos de amigo secreto de forma sencilla.
+
+Algunos cosas importantes a considerar son: 
 La variable amigos (un array) almacena los nombres ingresados.
 
 agregarAmigo(): Obtiene el valor del campo de texto, valida que no esté vacío y lo agrega al array amigos. Luego llama a mostrarListaAmigos() para actualizar la interfaz.
