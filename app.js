@@ -40,5 +40,4 @@ function sortearAmigo() {
     let p = document.createElement('p');
     p.textContent = `¡El amigo que ha ganado el sorteo es: ${amigoSorteado}!`;
     resultado.appendChild(p);
-}// El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación. Aquí deberás desarrollar la lógica para resolver el problema.
-
+}
