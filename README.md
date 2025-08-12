@@ -2,12 +2,12 @@
 
 - Estado del proyecto: Finalidado.
   
-<p> Holaaaa este es un pequeno desafio que se llama Amigo Secreto donde se pueden realizar sorteos de amigo secreto de forma sencilla. </p>
+<p> Hola este es un pequeno desafio que se llama Amigo Secreto donde se pueden realizar sorteos de amigo secreto de forma sencilla. </p>
 
 - Algunos cosas importantes a considerar son: 
 La variable amigos (un array) almacena los nombres ingresados.
 
-```agregarAmigo():``` Obtiene el valor del campo de texto, valida que no esté vacío y lo agrega al array amigos. Luego llama a ```mostrarListaAmigos()``` para actualizar la interfaz.
+```agregarAmigo():``` Es el encargado de obtener el valor del campo de texto, validando de que el mismo no se encuentre esté vacío y lo agrega al array amigos. Luego llama a ```mostrarListaAmigos()``` para actualizar la interfaz.
 
 ```mostrarListaAmigos()``` Se encarga de limpiar la lista HTML y el de reconstruir con los nombres que están en el array amigos.
 
